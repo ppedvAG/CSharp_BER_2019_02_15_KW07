@@ -1,0 +1,11 @@
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","Treibstoff":1,"Ladung":null,"MaxGeschwindigkeit":40,"Name":"Titanic","AktGeschwindigkeit":0,"Preis":3500000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","Treibstoff":1,"Ladung":null,"MaxGeschwindigkeit":40,"Name":"Titanic","AktGeschwindigkeit":0,"Preis":3500000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.PKW, Fahrzeugpark","AnzahlInsassen":2,"RäderAnzahl":0,"MaxGeschwindigkeit":250,"Name":"Audi","AktGeschwindigkeit":0,"Preis":18000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","Treibstoff":1,"Ladung":null,"MaxGeschwindigkeit":40,"Name":"Titanic","AktGeschwindigkeit":0,"Preis":3500000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","Treibstoff":1,"Ladung":null,"MaxGeschwindigkeit":40,"Name":"Titanic","AktGeschwindigkeit":0,"Preis":3500000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","Treibstoff":1,"Ladung":null,"MaxGeschwindigkeit":40,"Name":"Titanic","AktGeschwindigkeit":0,"Preis":3500000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","Treibstoff":1,"Ladung":null,"MaxGeschwindigkeit":40,"Name":"Titanic","AktGeschwindigkeit":0,"Preis":3500000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.PKW, Fahrzeugpark","AnzahlInsassen":2,"RäderAnzahl":0,"MaxGeschwindigkeit":270,"Name":"Audi","AktGeschwindigkeit":0,"Preis":18000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","Treibstoff":1,"Ladung":null,"MaxGeschwindigkeit":40,"Name":"Titanic","AktGeschwindigkeit":0,"Preis":3500000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Flugzeug, Fahrzeugpark","MaxFlughöhe":9999,"MaxGeschwindigkeit":800,"Name":"Boing","AktGeschwindigkeit":0,"Preis":3600000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.PKW, Fahrzeugpark","AnzahlInsassen":2,"RäderAnzahl":0,"MaxGeschwindigkeit":210,"Name":"Audi","AktGeschwindigkeit":0,"Preis":28000.0,"MotorLäuft":false}

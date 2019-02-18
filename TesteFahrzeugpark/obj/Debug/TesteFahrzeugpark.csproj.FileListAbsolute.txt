@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\bin\Debug\TesteFahrzeugpark.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\bin\Debug\TesteFahrzeugpark.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\bin\Debug\TesteFahrzeugpark.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\bin\Debug\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\bin\Debug\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\obj\Debug\TesteFahrzeugpark.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\obj\Debug\TesteFahrzeugpark.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\obj\Debug\TesteFahrzeugpark.csproj.CopyComplete
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\obj\Debug\TesteFahrzeugpark.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\TesteFahrzeugpark\obj\Debug\TesteFahrzeugpark.pdb

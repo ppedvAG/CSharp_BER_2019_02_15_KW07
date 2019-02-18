@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\bin\Debug\EventHandling.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\bin\Debug\EventHandling.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\bin\Debug\EventHandling.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\obj\Debug\EventHandling.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\obj\Debug\EventHandling.Form1.resources
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\obj\Debug\EventHandling.Properties.Resources.resources
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\obj\Debug\EventHandling.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\obj\Debug\EventHandling.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\EventHandling\obj\Debug\EventHandling.pdb

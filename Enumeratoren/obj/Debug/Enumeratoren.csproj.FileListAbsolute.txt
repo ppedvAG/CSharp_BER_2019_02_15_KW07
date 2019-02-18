@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Enumeratoren\bin\Debug\Enumeratoren.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Enumeratoren\bin\Debug\Enumeratoren.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Enumeratoren\bin\Debug\Enumeratoren.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Enumeratoren\obj\Debug\Enumeratoren.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Enumeratoren\obj\Debug\Enumeratoren.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Enumeratoren\obj\Debug\Enumeratoren.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Enumeratoren\obj\Debug\Enumeratoren.pdb

@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\HalloWelt\bin\Debug\HalloWelt.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\HalloWelt\bin\Debug\HalloWelt.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\HalloWelt\bin\Debug\HalloWelt.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\HalloWelt\obj\Debug\HalloWelt.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\HalloWelt\obj\Debug\HalloWelt.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\HalloWelt\obj\Debug\HalloWelt.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\HalloWelt\obj\Debug\HalloWelt.pdb

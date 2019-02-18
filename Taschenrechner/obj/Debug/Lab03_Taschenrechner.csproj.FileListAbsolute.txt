@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Taschenrechner\obj\Debug\Lab03_Taschenrechner.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Taschenrechner\obj\Debug\Lab03_Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Taschenrechner\obj\Debug\Taschenrechner.pdb

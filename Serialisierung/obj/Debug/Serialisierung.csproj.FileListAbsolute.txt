@@ -1,0 +1,16 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\bin\Debug\Serialisierung.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\bin\Debug\Serialisierung.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\bin\Debug\Serialisierung.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\bin\Debug\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\bin\Debug\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\obj\Debug\Serialisierung.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\obj\Debug\Serialisierung.Form1.resources
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\obj\Debug\Serialisierung.Properties.Resources.resources
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\obj\Debug\Serialisierung.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\obj\Debug\Serialisierung.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\obj\Debug\Serialisierung.csproj.CopyComplete
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\obj\Debug\Serialisierung.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\obj\Debug\Serialisierung.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Serialisierung\bin\Debug\Newtonsoft.Json.xml

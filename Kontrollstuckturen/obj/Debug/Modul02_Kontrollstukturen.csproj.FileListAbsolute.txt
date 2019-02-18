@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Kontrollstuckturen\bin\Debug\Kontrollstuckturen.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Kontrollstuckturen\bin\Debug\Kontrollstuckturen.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Kontrollstuckturen\bin\Debug\Kontrollstuckturen.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Kontrollstuckturen\obj\Debug\Modul02_Kontrollstukturen.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Kontrollstuckturen\obj\Debug\Modul02_Kontrollstukturen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Kontrollstuckturen\obj\Debug\Kontrollstuckturen.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Kontrollstuckturen\obj\Debug\Kontrollstuckturen.pdb

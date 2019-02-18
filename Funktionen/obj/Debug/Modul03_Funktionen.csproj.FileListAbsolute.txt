@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Funktionen\bin\Debug\Funktionen.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Funktionen\bin\Debug\Funktionen.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Funktionen\bin\Debug\Funktionen.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Funktionen\obj\Debug\Modul03_Funktionen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Funktionen\obj\Debug\Funktionen.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Funktionen\obj\Debug\Funktionen.pdb

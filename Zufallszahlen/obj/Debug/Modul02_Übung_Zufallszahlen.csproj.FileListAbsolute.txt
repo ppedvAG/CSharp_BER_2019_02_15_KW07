@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Zufallszahlen\bin\Debug\Zufallszahlen.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Zufallszahlen\bin\Debug\Zufallszahlen.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Zufallszahlen\bin\Debug\Zufallszahlen.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Zufallszahlen\obj\Debug\Modul02_Übung_Zufallszahlen.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Zufallszahlen\obj\Debug\Modul02_Übung_Zufallszahlen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Zufallszahlen\obj\Debug\Zufallszahlen.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Zufallszahlen\obj\Debug\Zufallszahlen.pdb

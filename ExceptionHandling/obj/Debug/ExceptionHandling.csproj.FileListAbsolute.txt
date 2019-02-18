@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

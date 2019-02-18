@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Minirechner\bin\Debug\Minirechner.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Minirechner\bin\Debug\Minirechner.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Minirechner\bin\Debug\Minirechner.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Minirechner\obj\Debug\Minirechner.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Minirechner\obj\Debug\Minirechner.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Minirechner\obj\Debug\Minirechner.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\Minirechner\obj\Debug\Minirechner.pdb

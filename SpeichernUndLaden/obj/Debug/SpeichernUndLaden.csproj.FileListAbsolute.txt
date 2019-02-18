@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.exe.config
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.Form1.resources
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.Properties.Resources.resources
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.exe
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.csprojAssemblyReference.cache

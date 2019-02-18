@@ -1,0 +1,17 @@
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.deps.json
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.runtimeconfig.json
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.runtimeconfig.dev.json
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\bin\Debug\netcoreapp2.1\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\obj\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\obj\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\obj\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.AssemblyInfoInputs.cache
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\obj\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.AssemblyInfo.cs
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\obj\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.csproj.CopyComplete
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\obj\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.dll
+C:\Users\kh2\source\repos\CSharp_Kurs_Berlin\UnitTest_Fahrzeugpark\obj\Debug\netcoreapp2.1\UnitTest_Fahrzeugpark.pdb
